@@ -1,1 +1,4 @@
 # Sales-dashboard-and-forecasting-project-using-Power-BI
+Project Overview :- This project showcases a full end-to-end dashboard solution built using Microsoft Power BI. The objective is to import raw sales data, clean and transform it, apply analytics and forecasting, design interactive visuals, and export/share insights.
+Key Features :- Import and preprocess sales data (CSV/Excel/SQL) using Power Query.Build data model & use DAX for calculations and measures. Create interactive visual components: charts, maps, filters/slicers. Implement forecasting on sales trends. Export the dashboard (PDF/interactive) and present actionable insights.
+Tech Stack :- Microsoft Power BI Desktop. Data source: CSV / Excel / SQL (as appropriate). DAX (Data Analysis Expressions). Power Query Editor for data cleaning. Visualisations: bar charts, line charts, map visuals, slicers
